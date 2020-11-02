@@ -1,0 +1,72 @@
+#page {
+    margin: 0 auto;
+    margin-left: 10%;
+    min-width: 520px;
+}
+
+#siteTitle {
+    font-size: 40px;
+    padding-left: 10%;
+    white-space: nowrap;
+}
+
+h2 {
+    background-color: #CCFFFF;
+    padding: 5px 0px 0px 25px;
+    border-bottom:5px;
+    border-left: 5px;
+    border-top: 1px;
+    border-right: 1px;
+}
+
+#pText {
+    padding-left: 5%;
+}
+
+#pageBody {
+    width:70%;
+    float: left;
+}
+
+#pageSub {
+    width: 20%;
+    min-width: 150px;
+    float: right;
+    padding-bottom: 15px;
+}
+
+#box {
+    min-height: 100%;
+    padding-bottom: 5%;
+}
+
+#subBox {
+    min-height: 100%;
+    padding-bottom: 5%;
+}
+
+#pageFooter {
+    text-align: center;
+    clear: both;
+    padding-top: 30px;
+}
+
+.img-right {
+    float: right;
+}
+
+#center {
+    text-align: center;
+}
+
+button {
+    background-color: #3399FF;
+}
+
+button:hover {
+    background-color: #6aabd4;
+}
+
+hr {
+    border: 1px dotted #c0bbbb;
+}
